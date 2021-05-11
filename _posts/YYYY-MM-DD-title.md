@@ -1,3 +1,3 @@
 ```
-title: YYYY-MM-DD
+YYYY-MM-DD
 ```
